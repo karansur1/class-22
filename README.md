@@ -1,2 +1,2 @@
-# class-22
-ball and rect
+# p5.play-boilerplate
+Boiler plate for p5.play
